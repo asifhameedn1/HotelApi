@@ -1,0 +1,17 @@
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\bin\Debug\net6.0\AH.Hotels.BusinessLayer.deps.json
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\bin\Debug\net6.0\AH.Hotels.BusinessLayer.dll
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\bin\Debug\net6.0\AH.Hotels.BusinessLayer.pdb
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\bin\Debug\net6.0\AH.Hotels.Entities.dll
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\bin\Debug\net6.0\AH.Hotels.RepoLayer.dll
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\bin\Debug\net6.0\AH.Hotels.RepoLayer.pdb
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\bin\Debug\net6.0\AH.Hotels.Entities.pdb
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\AH.Hotels.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\AH.Hotels.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\AH.Hotels.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\AH.Hotels.BusinessLayer.AssemblyInfo.cs
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\AH.Hotels.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\AH.Hotels.BusinessLayer.csproj.CopyComplete
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\AH.Hotels.BusinessLayer.dll
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\refint\AH.Hotels.BusinessLayer.dll
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\AH.Hotels.BusinessLayer.pdb
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.BusinessLayer\obj\Debug\net6.0\ref\AH.Hotels.BusinessLayer.dll

@@ -1,0 +1,14 @@
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\bin\Debug\net6.0\AH.Hotels.Entities.deps.json
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\bin\Debug\net6.0\AH.Hotels.Entities.runtimeconfig.json
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\bin\Debug\net6.0\AH.Hotels.Entities.dll
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\bin\Debug\net6.0\AH.Hotels.Entities.pdb
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\AH.Hotels.Entities.csproj.AssemblyReference.cache
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\AH.Hotels.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\AH.Hotels.Entities.AssemblyInfoInputs.cache
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\AH.Hotels.Entities.AssemblyInfo.cs
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\AH.Hotels.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\AH.Hotels.Entities.dll
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\refint\AH.Hotels.Entities.dll
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\AH.Hotels.Entities.pdb
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\AH.Hotels.Entities.genruntimeconfig.cache
+C:\Users\asif.hameed\source\repos\AH.Hotels.WebApi\AH.Hotels.Entities\obj\Debug\net6.0\ref\AH.Hotels.Entities.dll
